@@ -80,7 +80,7 @@ describe("purchase encouragement campaign", function () {
 			userID: "userID2",
 			name: "MGAs Next Generation Web3 Rewards Program",
 			description: "",
-			campaignType: "encouragePurchases",
+			campaignType: CAMPAIGN_TYPE_ENCOURAGE_PURCHASES,
 			ongoing: false,
 			startDate: "2022-05-11T04:00:00.000Z",
 			endDate: "2023-05-24T04:00:00.000Z",
