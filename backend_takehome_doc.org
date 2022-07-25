@@ -1,9 +1,9 @@
 
-We expect you to understand our architecure. We will test your coding skills too - debugging,
+We expect you to understand our architecture. We will test your coding skills too - debugging,
 testing etc. Primarily, though, we are testing your ability to read our code, understand it, and
 work with it.
 
-Every architecure has an opinion on how you should use it. You should understand this opinion. We'll
+Every architecture has an opinion on how you should use it. You should understand this opinion. We'll
 give you plenty of time to ask us questions.
 
 Commands:
@@ -41,7 +41,7 @@ Your Feature in Detail:
 - each user will receive tokens for the brand in question only
   - we supply the brand ID in the request
   - a user will have a different number of tokens for each brand
-    - for example, a user may have 10 Nike tokens and 3 Addidas tokens
+    - for example, a user may have 10 Nike tokens and 3 Adidas tokens
     - your route will distribute tokens for only one brand
 - you can assume that the brand already exists
 - we want a record of every token distribution
